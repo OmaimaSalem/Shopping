@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+.cart-item{
+    font-size: smaller;
+}
+.product-btn{
+    font-size: xx-small;
+}
+
+a:hover{
+    text-decoration: none;
+   
+}
+.search-btn {
+    display: inline-block;
+    background-color: #c53e00;
+    border: none;
+    border-radius: 30%;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 12px 30px;
+    transition: all .5s;
+  }
+  .search-btn:hover {
+    background-color: #afafaf;
+    color:black;
+  }
+  
+  
